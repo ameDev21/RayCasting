@@ -1,2 +1,2 @@
 # RayCasting
-a sample ray casting example 
+a sample program that simulate the ray casting in a video game
