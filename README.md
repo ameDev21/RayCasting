@@ -1,2 +1,2 @@
 # RayCasting
-a sample program that simulate the ray casting 
+a simple program that simulate the ray casting 
